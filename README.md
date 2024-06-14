@@ -1,17 +1,8 @@
-# Genji
+# Portable Profile UI
 
-A Next.js Web3 app template.
+[LSP0](https://docs.lukso.tech/standards/universal-profile/lsp0-erc725account/)-based chain abstraction solution.
 
-Features:
-
-- [Next.js](https://nextjs.org/)
-- [Web3 Modal](https://web3modal.com/)
-- [Ethers.js](https://docs.ethers.org/v6/) (v6)
-- [Chakra UI](https://chakra-ui.com/)
-
-View the [Solidity contract](https://github.com/w3hc/w3hc-hardhat-template/blob/main/contracts/Basic.sol) used in the example.
-
-Web app live at [https://genji-app.netlify.app](https://genji-app.netlify.app).
+The web app is live at [https://pp-ui.netlify.app](https://pp-ui.netlify.app).
 
 ## Install
 
@@ -32,6 +23,13 @@ Add your own keys in the `.env` file (you can get it in your [Wallet Connect das
 ```bash
 pnpm dev
 ```
+
+## Features
+
+- [Next.js](https://nextjs.org/)
+- [Web3 Modal](https://web3modal.com/)
+- [Ethers.js](https://docs.ethers.org/v6/) (v6)
+- [Chakra UI](https://chakra-ui.com/)
 
 ## Versions
 

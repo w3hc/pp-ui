@@ -28,9 +28,9 @@ const sepolia = {
 // }
 
 const metadata = {
-  name: 'Genji',
-  description: 'Next.js + Web3 Modal + Ethers.js + Chakra UI',
-  url: 'https://genji.netlify.app',
+  name: 'Portable Profile',
+  description: 'Be yourself.',
+  url: 'https://pp-ui.netlify.app',
   icons: ['./public/favicon.ico'],
 }
 
