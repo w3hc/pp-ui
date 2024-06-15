@@ -123,7 +123,7 @@ export default function Home() {
           security. Despite its potential, UP&apos;s reach is constrained as it is not available on all blockchain networks. This limitation hinders
           many users and developers from leveraging its full benefits, thereby restricting its broader adoption and utility. To address this
           challenge, our project aims to port UP to multiple blockchain networks, ensuring it is compatible with ERC-4337 standards. By doing so, we
-          will not only expand UP's accessibility but also enhance its interoperability across various platforms, fostering a more inclusive and
+          will not only expand UP&apos;s accessibility but also enhance its interoperability across various platforms, fostering a more inclusive and
           versatile ecosystem.
         </Text>
         <br />
@@ -221,7 +221,7 @@ export default function Home() {
         <Text>
           Our project aims to extend the benefits of the standards offered by Lukso to the entire blockchain community. By broadening the
           accessibility and applicability of these standards, we can foster a more inclusive and efficient ecosystem that leverages the strengths of
-          Lukso's innovations.
+          Lukso&apos;s innovations.
         </Text>
         <br />
 
