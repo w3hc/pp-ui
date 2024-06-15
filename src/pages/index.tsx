@@ -129,7 +129,7 @@ export default function Home() {
         <br />
         <HeadingComponent as="h4">Features</HeadingComponent>
         <Text>
-          One of the key features of our project is the ability for users to synchronize their Personal Profile (PP) key managers across multiple
+          One of the key features of our project is the ability for users to synchronize their Portable Profile (PP) key managers across multiple
           networks. This synchronization ensures that users can maintain their profiles seamlessly, regardless of the blockchain they are using.
           Additionally, our solution is designed to be extremely easy to integrate, either through an SDK or a package, reducing the complexity for
           developers and accelerating adoption. Another significant feature is the provision of a gasless experience, which eliminates the need for
@@ -150,11 +150,11 @@ export default function Home() {
         <Text>
           Our solution offers numerous benefits for both developers and users. For users, the primary advantage is the elimination of dependency on
           native tokens, as the gasless experience removes the need for transaction fees. This not only simplifies the user experience but also makes
-          blockchain technology more accessible to a wider audience. For developers, the broad adoption of Linked Standard Profile (LSP) standards
-          ensures a unified and consistent development framework, enhancing interoperability and reducing integration efforts. Furthermore, LUKSO will
-          benefit from an alternative multichain relayer system, providing additional flexibility and resilience. Users will also appreciate the
-          ability to utilize UP on various blockchains with the same address, ensuring a consistent experience similar to what is offered on Universal
-          Profile Cloud.
+          blockchain technology more accessible to a wider audience. For developers, the broad adoption of Lukso Standard Proposals (LSPs) ensures a
+          unified and consistent development framework, enhancing interoperability and reducing integration efforts. Furthermore, LUKSO will benefit
+          from an alternative multichain relayer system, providing additional flexibility and resilience. Users will also appreciate the ability to
+          utilize UP on various blockchains with the same address, ensuring a consistent experience similar to what is offered on Universal Profile
+          Cloud.
         </Text>
         <br />
         <HeadingComponent as="h4"> Business Model</HeadingComponent>
@@ -246,7 +246,7 @@ export default function Home() {
         <HeadingComponent as="h4">Gasless Experience in DApps on All Major Chains Using LSP Standards</HeadingComponent>
 
         <Text>
-          We deliver a gasless experience in dApps across all major blockchain networks using Linked Standard Profile (LSP) standards. This approach
+          We deliver a gasless experience in dApps across all major blockchain networks using Lukso Standard Profile (LSP) standards. This approach
           removes the need for users to pay transaction fees, making blockchain interactions more accessible and user-friendly while maintaining high
           performance and security.
         </Text>
